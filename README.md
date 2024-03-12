@@ -1,1 +1,1 @@
-SollB test message
+TEST@@@@@@@@@
